@@ -1,5 +1,4 @@
-# BERT model for Named Entity Recognition using HuggingFace
+## BERT model for Named Entity Recognition using HuggingFace
 
-
-using simple transformers<br/>
-using transformers
+### using simple transformers
+### using transformers
